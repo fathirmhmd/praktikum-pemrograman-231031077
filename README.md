@@ -5,3 +5,5 @@
 
 *Praktikum 1 : Pengenalan Variabel `praktikum-c5.py`
 *Praktikum 1 : Pengenalan Variabel `praktikum-c1.py`
+*Praktikum 1 : Pengenalan Variabel `praktikum-c2.py`
+
