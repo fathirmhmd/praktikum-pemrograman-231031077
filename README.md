@@ -11,6 +11,8 @@
 *Praktikum 9 : Pengenalan Variabel `praktikum-c9.py`
 *Praktikum 6 : Pengenalan Variabel `praktikum-c6.py`
 *Praktikum 7 : Pengenalan Variabel `praktikum-c7.py`
+*Praktikum 8 : Pengenalan Variabel `praktikum-c8.py`
+
 
 
 
