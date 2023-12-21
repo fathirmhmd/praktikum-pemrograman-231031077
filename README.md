@@ -3,7 +3,8 @@
 <div> Nim: 231031077 </div>
 <div> Prodi: Sistem Informasi c </div>
 
-*Praktikum 1 : Pengenalan Variabel `praktikum-c5.py`
+*Praktikum 5 : Pengenalan Variabel `praktikum-c5.py`
 *Praktikum 1 : Pengenalan Variabel `praktikum-c1.py`
-*Praktikum 1 : Pengenalan Variabel `praktikum-c2.py`
+*Praktikum 2 : Pengenalan Variabel `praktikum-c2.py`
+*Praktikum 3 : Pengenalan Variabel `praktikum-c3.py`
 
